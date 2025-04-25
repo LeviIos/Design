@@ -9,4 +9,4 @@
 
 ## Применение попарного тестирования 
 
-[Cсылка на документ](https://docs.google.com/spreadsheets/d/1QDl6M2URXdEoyG9EFpl2v5_Jg7HIZYcbdd0QCg51sEA/edit?gid=979575493#gid=979575493)
+[Cсылка на документ](https://docs.google.com/spreadsheets/d/1QDl6M2URXdEoyG9EFpl2v5_Jg7HIZYcbdd0QCg51sEA/edit?gid=1650020219#gid=1650020219)
